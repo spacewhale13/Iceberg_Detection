@@ -1,0 +1,6 @@
+names:
+  0: ship
+  1: iceberg
+path: /content/det_data
+train: images/train
+val: images/val

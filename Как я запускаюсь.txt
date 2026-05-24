@@ -1,0 +1,3 @@
+uv run python app.py
+
+в барузере запустить в адресную строку: http://localhost:5000

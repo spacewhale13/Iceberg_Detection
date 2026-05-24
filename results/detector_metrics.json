@@ -1,0 +1,13 @@
+{
+  "mAP50": 0.9565247108653677,
+  "mAP50-95": 0.9565247108653676,
+  "precision": 0.8274690742032433,
+  "recall": 0.9276823720446238,
+  "train_time_sec": 542.6373693943024,
+  "epochs": 20,
+  "imgsz": 320,
+  "model": "yolo11s",
+  "note": "trained on Statoil patches recast as detection task; for real Sentinel-1 use SARDet-100K weights",
+  "latency_ms_per_image": 7.85389170050621,
+  "fps": 127.32541243668366
+}

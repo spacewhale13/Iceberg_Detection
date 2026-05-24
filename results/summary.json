@@ -1,0 +1,14 @@
+{
+  "classification_f1": 0.921832884097035,
+  "classification_auc": 0.9785987269098303,
+  "detection_mAP50": 0.9565247108653677,
+  "detection_mAP50-95": 0.9565247108653676,
+  "drift_mean_gcd_120h_km": 6.443454423410292,
+  "speed": {
+    "device": "Tesla T4",
+    "classifier_latency_ms_per_sample": 0.2602217346429825,
+    "detector_latency_ms_per_image": 7.85389170050621,
+    "detector_fps": 127.32541243668366,
+    "drift_latency_ms_per_120h_track": 178.25496196746826
+  }
+}
